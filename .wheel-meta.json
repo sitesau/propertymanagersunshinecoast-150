@@ -1,0 +1,22 @@
+{
+  "wheel_id": 456,
+  "structure": "umbrella",
+  "slug": "propertymanagersunshinecoast-150",
+  "project": "property-management-sunshine-coast-194583bc2432e9609affc5556298",
+  "parent_t1_ref": "propertymanagersunshinecoast-010",
+  "node_role": "buffer",
+  "money_target": "propertymanagersunshinecoast.com.au",
+  "primary_kw": "property management sunshine coast",
+  "intended_url": "https://aumedia.neocities.org/property-management-sunshine-coast-194583bc2432e9609affc5556298/",
+  "tier": "T2",
+  "writeback_nonce": "61cdba62c677e9e5",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/property-management-sunshine-coast-010/",
+      "anchor": "the property management sunshine coast overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
